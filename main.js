@@ -50,6 +50,21 @@ var somma_numeri = numero_utente + numero_casuale;
     console.log(somma_numeri);
 
 
+    var resto = somma_numeri % 2;
+
+ 
+
+    if (resto == 0 && scelta_utente == 0) {
+
+        console.log(somma_numeri + ' il numero è pari: HAI VINTO!');
+
+    } else if (resto == 0 && scelta_utente != 0) {
+
+        console.log(somma_numeri + 'HAI VINTO');
+
+    }     
+
+
 
    
 
