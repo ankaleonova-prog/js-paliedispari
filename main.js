@@ -41,6 +41,22 @@ var numero_casuale = Math.floor(Math.random() * 5) + 1;
 
     console.log(numero_casuale);
 
+//sommare il numero 
+
+
+
+var somma_numeri = numero_utente + numero_casuale;
+
+    console.log(somma_numeri);
+
+
+
+   
+
+
+
+    
+
 
 
 
