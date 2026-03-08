@@ -26,5 +26,12 @@ var scelta_utente = prompt('pari o dispari');
 
     console.log(scelta_utente);
 
+//chiedere numero untente tra 1 e 5
+
+var numero_utente = parseInt(prompt('Inserisci un numero tra 1 e 5'));
+
+    console.log(numero_utente);
 
 
+
+/
