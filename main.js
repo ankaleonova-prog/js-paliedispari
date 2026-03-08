@@ -17,3 +17,14 @@ function palindromo(str) {
 
 console.log(palindromo('tomomot'));
 console.log(palindromo('matteo'));
+
+// chiedere all'utente se sceglie pari o dispari
+
+
+
+var scelta_utente = prompt('pari o dispari');
+
+    console.log(scelta_utente);
+
+
+
