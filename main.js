@@ -33,5 +33,15 @@ var numero_utente = parseInt(prompt('Inserisci un numero tra 1 e 5'));
     console.log(numero_utente);
 
 
+//generare numero casuale tra 1 e 5
 
-/
+
+
+var numero_casuale = Math.floor(Math.random() * 5) + 1;
+
+    console.log(numero_casuale);
+
+
+
+
+
